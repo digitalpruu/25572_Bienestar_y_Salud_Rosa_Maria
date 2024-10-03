@@ -64,7 +64,8 @@
       {
         "name": "Instagram",
         "description": "@rosamariatalerof",
-        "icon": "/assets/images/insta.png"
+        "icon": "/assets/images/insta.png",
+        "url":""
       }
     ]
   },
