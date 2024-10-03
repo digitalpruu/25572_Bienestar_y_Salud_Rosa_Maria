@@ -65,11 +65,6 @@
         "name": "Instagram",
         "description": "@rosamariatalerof",
         "icon": "/assets/images/insta.png"
-      },
-      {
-        "name": "Facebook",
-        "description": "Mi Negocio",
-        "icon": "/assets/images/facebook.jpg"
       }
     ]
   },
