@@ -66,6 +66,12 @@
         "description": "@rosamariatalerof",
         "icon": "/assets/images/insta.png",
         "url":""
+      },
+      {
+        "name": "Facebook",
+        "description": "Rosa María Talero Franco",
+        "icon": "/assets/images/facebook.jpg",
+        "url":"https://www.facebook.com/people/Rosa-Mar%C3%ADa-Talero-Franco/61565789676850/?_rdc=1&_rdr"
       }
     ]
   },
